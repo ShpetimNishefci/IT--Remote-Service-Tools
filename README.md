@@ -3,7 +3,6 @@ IT- Remote Service Tools
 
 About
 -----
-SysAdmin APP
 Manage your remote connections for Remote Desktop "RDP", VNC Viewers, PuTTY, and Mikrotik with Encrypted password.
 This type of encryption is called symmetric-key encryption that means the string can only be decrypted if the other party has the correct key (which is used for encryption).
 
@@ -17,7 +16,8 @@ Features
 - Passwords are Encrypted.
 - Nothing i limited in this application.
 - Full Free.
-
+- Specally for Search Results
+- Specally for SysAdmin :)
 Installing
 ----------
 This application is Portable, just copy all the files in the same folder and make it run.
