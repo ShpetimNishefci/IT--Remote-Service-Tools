@@ -15,6 +15,8 @@ Features
 - Easy moveable and easy editable.
 - Specific file write in XML for every place you make.
 - Passwords are Encrypted.
+- Nothing i limited in this application.
+- Full Free.
 
 Installing
 ----------
@@ -24,6 +26,8 @@ Usage
 ---------
 
 ![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/ScreenShoots/Applications.png)
+
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/ScreenShoots/sendkey.png)
 
 Notes
 ----------
