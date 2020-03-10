@@ -16,8 +16,9 @@ Features
 - Passwords are Encrypted.
 - Nothing i limited in this application.
 - Full Free.
-- Specally for Search Results
-- Specally for SysAdmin :)
+- Specally for Search Results.
+- Specally for SysAdmin.
+
 Installing
 ----------
 This application is Portable, just copy all the files in the same folder and make it run.
