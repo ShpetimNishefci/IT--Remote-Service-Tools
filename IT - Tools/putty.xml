@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlacesDetail>
+  <Places>
+    <IP>172.16.0.1</IP>
+    <Name>Place 1</Name>
+    <PSW>CFNGZOlwbxI=</PSW>
+    <Username>root</Username>
+    <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
+    <Port>22</Port>
+  </Places>
+  <Places>
+    <IP>172.22.0.21</IP>
+    <Name>Place 2</Name>
+    <Username>root</Username>
+    <PSW>CFNGZOlwbxI=</PSW>
+    <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
+    <Port>root</Port>
+  </Places>
+</PlacesDetail>
