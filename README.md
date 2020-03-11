@@ -23,6 +23,11 @@ Download
 
 [Download Here](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/archive/master.zip " IT - Remote Service Tools")
 
+.Net Framewrok 4.5.2
+--------
+[.Net Framework 4.5.2](https://download.microsoft.com/download/E/2/1/E21644B5-2DF2-47C2-91BD-63C560427900/NDP452-KB2901907-x86-x64-AllOS-ENU.exe " .Net Framework 4.5.2")
+
+
 Installing
 ----------
 This application is Portable, just copy all the files in the same folder and make it run.
