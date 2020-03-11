@@ -18,6 +18,11 @@ Features
 - Full Free.
 - Specally for SysAdmin.
 
+Download
+---------
+
+[Download Here](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/archive/master.zip " IT - Remote Service Tools")
+
 Installing
 ----------
 This application is Portable, just copy all the files in the same folder and make it run.
