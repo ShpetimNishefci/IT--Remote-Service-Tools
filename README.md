@@ -33,6 +33,21 @@ Notes
 ----------
 Tested in Windows 10 64bit
 
+XML Specific file Example
+-------
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<PlacesDetail>
+  <Places>
+    <IP>10.0.0.1</IP>
+    <Name>Place 1</Name>
+    <PSW>o+ZbOCRwt8g=</PSW>
+    <Username>admin</Username>
+    <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
+    <Port>5900</Port>
+  </Places>
+```
+
 License
 -------
 
