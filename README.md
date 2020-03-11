@@ -14,9 +14,8 @@ Features
 - Easy moveable and easy editable.
 - Specific file write in XML for every place you make.
 - Passwords are Encrypted.
-- Nothing i limited in this application.
+- Nothing is limited in this application.
 - Full Free.
-- Specally for Search Results.
 - Specally for SysAdmin.
 
 Installing
