@@ -35,7 +35,7 @@ This application is Portable, just copy all the files in the same folder and mak
 Usage
 ---------
 
-![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/FirstView.png.png)
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/FirstView.png)
 
 ![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/LISTVIEW.png)
 
