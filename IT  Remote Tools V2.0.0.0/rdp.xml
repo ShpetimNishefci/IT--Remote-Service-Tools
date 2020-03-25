@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlacesDetail>
+  <Places>
+    <IP>192.168.1.1</IP>
+    <Name>New Connection</Name>
+    <PSW>o+ZbOCRwt8g=</PSW>
+    <Username>administrator</Username>
+    <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
+    <Port>3389</Port>
+  </Places>
+  <Places>
+    <IP>192.168.0.1</IP>
+    <Name>New Connection 2</Name>
+    <Username>administrator</Username>
+    <PSW>qX0U2K8JLVE=</PSW>
+    <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
+    <Port>3389</Port>
+  </Places>
+</PlacesDetail>

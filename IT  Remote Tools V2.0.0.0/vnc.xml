@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlacesDetail>
+  <Places>
+    <IP>10.0.0.1</IP>
+    <Name>New Connection</Name>
+    <PSW>r7Gr645J8/8=</PSW>
+    <Username>admin</Username>
+    <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
+    <Port>5900</Port>
+  </Places>
+  <Places>
+    <IP>10.0.0.2</IP>
+    <Name>New Connection 2</Name>
+    <PSW>pSdALIsfaq8=</PSW>
+    <Username>administrator</Username>
+    <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
+    <Port>5900</Port>
+  </Places>
+</PlacesDetail>

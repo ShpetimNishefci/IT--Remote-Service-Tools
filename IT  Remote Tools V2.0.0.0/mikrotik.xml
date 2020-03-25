@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlacesDetail>
+  <Places>
+    <IP>192.168.3.5</IP>
+    <Name>New Connection</Name>
+    <PSW>pSdALIsfaq8=</PSW>
+    <Username>pi</Username>
+    <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
+    <Port>22</Port>
+  </Places>
+  <Places>
+    <IP>1.1.1.1</IP>
+    <Name>New Connection 2</Name>
+    <Username>admin</Username>
+    <PSW>CFNGZOlwbxI=</PSW>
+    <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
+    <Port>8291</Port>
+  </Places>
+</PlacesDetail>
