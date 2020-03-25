@@ -35,19 +35,19 @@ This application is Portable, just copy all the files in the same folder and mak
 Usage
 ---------
 
-![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/First View.png.png)
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/FirstView.png.png)
 
-![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/LIST VIEW.png)
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/LISTVIEW.png)
 
-![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Add New.png)
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/AddNew.png)
 
 ![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Edit.png)
 
-![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Applications Settings.png)
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/ApplicationsSettings.png)
 
-![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Locked Application.png)
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/LockedApplication.png)
 
-![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Quick Connect.png)
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/QuickConnect.png)
 
 Notes
 ----------
