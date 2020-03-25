@@ -35,9 +35,19 @@ This application is Portable, just copy all the files in the same folder and mak
 Usage
 ---------
 
-![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/ScreenShoots/Applications.png)
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/First View.png.png)
 
-![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/ScreenShoots/sendkey.png)
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/LIST VIEW.png)
+
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Add New.png)
+
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Edit.png)
+
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Applications Settings.png)
+
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Locked Application.png)
+
+![Usage](https://github.com/ShpetimNishefci/IT-Remote-Service-Tools/blob/master/Screenshots/Quick Connect.png)
 
 Notes
 ----------
@@ -49,13 +59,14 @@ XML Specific file Example
 <?xml version="1.0" encoding="utf-8"?>
 <PlacesDetail>
   <Places>
-    <IP>10.0.0.1</IP>
-    <Name>Place 1</Name>
-    <PSW>o+ZbOCRwt8g=</PSW>
-    <Username>admin</Username>
+    <IP>192.168.1.1</IP>
+    <Name>New Connection</Name>
+    <PSW>r7Gr645J8/8=</PSW>
+    <Username>pi</Username>
     <Key>c2hwZXRpbS1uaXNoZWZjaQ==</Key>
-    <Port>5900</Port>
+    <Port>22</Port>
   </Places>
+  </PlacesDetail>
 ```
 
 License
